@@ -1,0 +1,33 @@
+{
+	"load_count":
+	[
+		"Helload World!",
+		"Load 10 times!",
+		"Load 100 times!"
+	],
+	"new_file_count":
+	[
+		"Hello World!",
+		"Create new file 10 times!"
+	],
+	"save_count":
+	[
+		"Hello Save World!",
+		"Save 10 times!",
+		"Save 100 times!",
+		"Save 300 times!",
+		"Save 500 times!"
+	],
+	"selector_count":
+	[
+		"multi selector!",
+		"select 15 place one time"
+	],
+	"unlocked_titles":
+	[
+		"save_count",
+		"new_file_count",
+		"load_count",
+		"selector_count"
+	]
+}

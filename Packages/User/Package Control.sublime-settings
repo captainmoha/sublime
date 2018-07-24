@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Achievement",
+		"All Autocomplete",
+		"AutoPEP8",
+		"Bootstrap 4 Autocomplete",
+		"Build Next",
+		"Carbon",
+		"EasyDiff",
+		"Emmet",
+		"Git",
+		"GitSavvy",
+		"HTMLBeautify",
+		"Indent XML",
+		"JavaScript Enhancements",
+		"jQuery",
+		"Odoo Snippets",
+		"Package Control",
+		"Python 3",
+		"SublimeLinter-xmllint",
+		"TerminalView",
+		"Theme - Brogrammer",
+		"TypeScript"
+	]
+}

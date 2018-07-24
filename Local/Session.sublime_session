@@ -1,0 +1,738 @@
+{
+	"folder_history":
+	[
+		"/home/farouk/odoo-dev/odoo/addons/web_kanban",
+		"/home/farouk/playground",
+		"/home/farouk/odoo-dev/odoo/addons/dash",
+		"/home/farouk/odoo-dev/odoo/addons",
+		"/home/farouk/odoo-dev/l",
+		"/home/farouk/odoo-dev/hiodoo",
+		"/home/farouk/odoo-dev/k/todo_kanban",
+		"/home/farouk/odoo-dev/custom-addons/todo_app",
+		"/home/farouk/odoo-dev",
+		"/home/farouk/odoo-dev/todo_kanban",
+		"/home/farouk/odoo-dev/custom-addons/to_do"
+	],
+	"last_version": 3176,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"inp",
+						"input"
+					],
+					[
+						"pas",
+						"password"
+					],
+					[
+						"inp_",
+						"inp_pass"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 720.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/farouk/playground/more.py",
+				"/home/farouk/notes/ref.txt",
+				"/home/farouk/notes/ocmd.txt",
+				"/home/farouk/playground/code.py",
+				"/home/farouk/playground/sc.py",
+				"/home/farouk/Desktop/sublime.desktop",
+				"/home/farouk/odoo-dev/custom-addons/todo_app/views/todo_menu.xml",
+				"/home/farouk/.bashrc"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 200.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Python/Python.sublime-build",
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ex",
+						"except"
+					],
+					[
+						"par",
+						"parsed_expr"
+					],
+					[
+						"sys",
+						"sys.stdin.readline"
+					],
+					[
+						"op",
+						"operator"
+					],
+					[
+						"inp",
+						"input"
+					],
+					[
+						"pas",
+						"password"
+					],
+					[
+						"inp_",
+						"inp_pass"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "# name = \"mohamed\"\n# age = 20\n\n# print(\"My name is {}.\\nI am {} years old\".format(name, age))\n\nimport random\n\nnum = random.randint(0, 10)\n\n\nwhile (True):\n\n\tguess = int(input(\"Enter a number: \"))\n\tif (guess == num):\n\t\tprint(\"You gussed it!\")\n\t\tbreak\n\t\n\telif (guess < num):\n\t\tprint(\"No, a little higher\")\n\t\n\telse:\n\t\tprint(\"No, a little lower\")\n\n",
+					"file": "/home/farouk/playground/code.py",
+					"file_size": 343,
+					"file_write_time": 131769153401396260,
+					"settings":
+					{
+						"buffer_size": 343,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "def total(n1, n2, *nums):\n    '''\n            Takes at least 2 numbers and returns their sum\n\n            arguments are ints or floats\n    '''\n    sum = 0\n    sum += n1\n    sum += n2\n    for n in nums:\n        sum += n\n\n    print(sum)\n\n\ntotal(2, 4)\ntotal(2, 4, 5)\ntotal(2, 4, 5, 8)\n# total(2)\n# total()",
+					"file": "/home/farouk/playground/more.py",
+					"file_size": 302,
+					"file_write_time": 131769153372277621,
+					"settings":
+					{
+						"buffer_size": 302,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "import re\nimport sys\nfrom time import sleep\n\n\ndef interface():\n\n    while(True):\n        print(chr(27)+'[2j')\n        print('\\033c')\n        print('\\x1bc')\n        print(\"Write your expression, or q to exit\")\n        expr = sys.stdin.readline().rstrip('\\n')\n        # print(expr)\n\n        if expr in [\"q\", \"quit\"]:\n            break\n\n        res = parse(expr)\n\n        if (res != \"E1\"):\n            print(expr + \" = \" + str(res))\n            sleep(2.5)\n\ndef run():\n    interface()\n\ndef parse(expr):\n    # print(type(expr))\n    parsed_expr = re.sub(r'\\s+', \"\", expr)\n\n    # print(parsed_expr)\n\n    try:\n        res = eval(parsed_expr)\n        \n\n    except Exception as e:\n        print(\"You entered an invalid expression, try again!\")\n        sleep(3)\n        return \"E1\"\n\n    return res\n\n    \n# def calc(op1, op2, operator):\n\n#     try:\n#        float(op1)\n#        float(op2)\n#     except ValueError:\n#        print(\"Please use numbers only!\")\n\n#     res = op1\n#     if operator == '+':\n#         res += op2\n#     elif operator == '-':\n#         res -= op2\n#     elif operator == '/':\n#         res /= op2\n#     elif operator == '*':\n#         res *= op2\n#     elif operator == '%':\n#         res %= op2\n#     else:\n#         print(\"Unsported operation\")\n#         return 'E1'\n\n\n#     return res\n\n\n\n\n\nrun()",
+					"file": "/home/farouk/playground/calc.py",
+					"file_size": 1307,
+					"file_write_time": 131769153326919741,
+					"settings":
+					{
+						"buffer_size": 1307,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "farouk@Dev-Farouk:~/playground $ ls                                                                \npytrain                                                                                            \nfarouk@Dev-Farouk:~/playground $                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n",
+					"settings":
+					{
+						"buffer_size": 1300,
+						"line_ending": "Unix",
+						"name": "JavaScript Enhancements Terminal (bash)",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 720.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/farouk/playground"
+			],
+			"file_history":
+			[
+				"/home/farouk/odoo-dev/11/docker-compose.yml",
+				"/home/farouk/51/kepler-dashboard/Makefile",
+				"/home/farouk/playground/more.py",
+				"/home/farouk/notes/ref.txt",
+				"/home/farouk/notes/ocmd.txt",
+				"/home/farouk/playground/code.py",
+				"/home/farouk/playground/sc.py",
+				"/home/farouk/Desktop/sublime.desktop",
+				"/home/farouk/odoo-dev/custom-addons/todo_app/views/todo_menu.xml",
+				"/home/farouk/.bashrc"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'",
+					"\t",
+					"res",
+					"\t",
+					"):"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/farouk/playground"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/farouk/playground/code.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 343,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/farouk/playground/more.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 302,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										168,
+										168
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/farouk/playground/calc.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1307,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1078,
+										1078
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1674.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1300,
+								"regions":
+								{
+									"0,0":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												0,
+												17
+											]
+										],
+										"scope": "terminalview.black_green"
+									},
+									"0,18":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												18,
+												30
+											]
+										],
+										"scope": "terminalview.black_blue"
+									},
+									"1,0":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												100,
+												107
+											]
+										],
+										"scope": "terminalview.black_blue"
+									},
+									"2,0":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												200,
+												217
+											]
+										],
+										"scope": "terminalview.black_green"
+									},
+									"2,18":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												218,
+												230
+											]
+										],
+										"scope": "terminalview.black_blue"
+									},
+									"8,0":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												1300,
+												1300
+											]
+										],
+										"scope": "terminalview.black_green"
+									},
+									"8,18":
+									{
+										"flags": 272,
+										"regions":
+										[
+											[
+												1300,
+												1300
+											]
+										],
+										"scope": "terminalview.black_blue"
+									}
+								},
+								"selection":
+								[
+									[
+										233,
+										233
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"auto_complete_commit_on_tab": false,
+									"caret_style": "blink",
+									"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+									"draw_centered": false,
+									"draw_indent_guides": false,
+									"draw_white_space": "none",
+									"gutter": false,
+									"highlight_line": false,
+									"scroll_past_end": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"terminal_view": true,
+									"terminal_view_activate_args":
+									{
+										"cmd": "/bin/bash -l",
+										"cwd": "/home/farouk/playground",
+										"keep_open": false,
+										"syntax": null,
+										"title": "JavaScript Enhancements Terminal (bash)"
+									},
+									"terminal_view_last_cursor_pos":
+									[
+										2,
+										33
+									],
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.512698412698,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 200.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Python/Python.sublime-build",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
