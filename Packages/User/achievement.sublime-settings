@@ -7,9 +7,19 @@
 		"Packages/JavaScript/JSON.sublime-syntax",
 		"Packages/JavaScript/JavaScript.sublime-syntax",
 		"Packages/Makefile/Makefile.sublime-syntax",
-		"Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
+		"Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax",
+		"Packages/Markdown/Markdown.sublime-syntax",
+		"Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+		"Packages/CSS/CSS.sublime-syntax",
+		"Packages/HTML/HTML.sublime-syntax",
+		"Packages/zzz A File Icon zzz/aliases/Plain Text (License).sublime-syntax",
+		"Packages/zzz A File Icon zzz/aliases/JavaScript (Gulpfile).sublime-syntax",
+		"Packages/YAML/YAML.sublime-syntax",
+		"Packages/zzz A File Icon zzz/aliases/YAML (Docker).sublime-syntax",
+		"Packages/ShellScript/Bash.sublime-syntax",
+		null
 	],
-	"load_count": 170,
-	"new_file_count": 32,
-	"save_count": 550
+	"load_count": 901,
+	"new_file_count": 153,
+	"save_count": 13151
 }

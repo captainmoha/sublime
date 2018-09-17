@@ -1,6 +1,17 @@
 {
 	"folder_history":
 	[
+		"/home/farouk/odoo-dev/dashin/dashing",
+		"/home/farouk/51/d3mod",
+		"/home/farouk/odoo-dev/dashin/dashing/dashing_liquid_gauge",
+		"/home/farouk/odoo-dev/library_books/lib_books",
+		"/home/farouk/odoo-dev/dashing_fork/dashing",
+		"/home/farouk/Odoo-11-Development-Coobook-Second-Edition/Chapter15/r2_templates",
+		"/home/farouk/odoo-dev/initiatives_dashboard",
+		"/home/farouk/ooo/startbootstrap-simple-sidebar",
+		"/home/farouk/odoo-dev/dashing",
+		"/home/farouk/playground/pytrain/zipfile",
+		"/home/farouk/odoo-dev/custom-addons/todo_app",
 		"/home/farouk/odoo-dev/odoo/addons/web_kanban",
 		"/home/farouk/playground",
 		"/home/farouk/odoo-dev/odoo/addons/dash",
@@ -8,23 +19,414 @@
 		"/home/farouk/odoo-dev/l",
 		"/home/farouk/odoo-dev/hiodoo",
 		"/home/farouk/odoo-dev/k/todo_kanban",
-		"/home/farouk/odoo-dev/custom-addons/todo_app",
 		"/home/farouk/odoo-dev",
 		"/home/farouk/odoo-dev/todo_kanban",
 		"/home/farouk/odoo-dev/custom-addons/to_do"
 	],
 	"last_version": 3176,
-	"last_window_id": 17,
+	"last_window_id": 70,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 1000.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"user",
+						"userid"
+					],
+					[
+						"appe",
+						"append\t(gauge.js)"
+					],
+					[
+						"fill",
+						"filtersList"
+					],
+					[
+						"sess",
+						"sessionData"
+					],
+					[
+						"target",
+						"targetValue"
+					],
+					[
+						"tar",
+						"targetTxt2Pos"
+					],
+					[
+						"sho",
+						"shouldFlipText"
+					],
+					[
+						"trans",
+						"translateText"
+					],
+					[
+						"res",
+						"res_model"
+					],
+					[
+						"cons",
+						"console\t{assert(condition: mixed, ...data: Array<any>): void; clear(): void; count(label: string): void; debug(...data: Array<any>): void; dir(...data: Array<any>): void; dirxml(...data: Array<any>): void; error(...data: Array<any>): void; _exception(...data: Array<any>): void; group(...data: Array<any>): void; groupCollapsed(...data: Array<any>): void; groupEnd(): void; info(...data: Array<any>): void; log(...data: Array<any>): void; profile(name: string): void; profileEnd(): void; table(tabularData: { [key: string]: any } | Array<{ [key: string]: any }> | Array<Array<any>>): void; time(label: string): void; timeEnd(label: string): void; timeStamp(label?: string): void; trace(...data: Array<any>): void; warn(...data: Array<any>): void; }"
+					],
+					[
+						"panel",
+						"panel-heading"
+					],
+					[
+						"po",
+						"pointer-events:none\t(main_tabs_widget_template.xml)"
+					],
+					[
+						"load",
+						"load_tab"
+					],
+					[
+						"li",
+						"li_clicked\tstring"
+					],
+					[
+						"att",
+						"attributes\t(gauge.js)"
+					],
+					[
+						"wid",
+						"widgetObjs"
+					],
+					[
+						"sort",
+						"sortedWidgets"
+					],
+					[
+						"conte",
+						"content"
+					],
+					[
+						"json",
+						"jsonData"
+					],
+					[
+						"con",
+						"console\t{+_exception: (...data: Array<any>) => void, +assert: (condition: mixed, ...data: Array<any>) => void, +clear: () => void, +count: (label: string) => void, +debug: (...data: Array<any>) => void, +dir: (...data: Array<any>) => void, +dirxml: (...data: Array<any>) => void, +error: (...data: Array<any>) => void, +group: (...data: Array<any>) => void, +groupCollapsed: (...data: Array<any>) => void, +groupEnd: () => void, +info: (...data: Array<any>) => void, +log: (...data: Array<any>) => void, +profile: (name?: string) => void, +profileEnd: (name?: string) => void, +table: (tabularData: ({[key: string]: any} | Array<{[key: string]: any}> | Array<Array<any>>)) => void, +time: (label: string) => void, +timeEnd: (label: string) => void, +timeStamp: (label?: string) => void, +trace: (...data: Array<any>) => void, +warn: (...data: Array<any>) => void}"
+					],
+					[
+						"max",
+						"maxVal"
+					],
+					[
+						"maxVa",
+						"maxValue"
+					],
+					[
+						"conf",
+						"config\tany"
+					],
+					[
+						"db",
+						"db_val"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"m",
+						"model"
+					],
+					[
+						"mode",
+						"model_check\t(main.py)"
+					],
+					[
+						"da",
+						"dashing_gauge\t(main.py)"
+					],
+					[
+						"requ",
+						"request\t(main.py)"
+					],
+					[
+						"val",
+						"val_str"
+					],
+					[
+						"va",
+						"val_str"
+					],
+					[
+						"data-",
+						"data-placement=\"left"
+					],
+					[
+						"count",
+						"counts"
+					],
+					[
+						"bli",
+						"b_list"
+					],
+					[
+						"bl",
+						"block_index"
+					],
+					[
+						"ap",
+						"append"
+					],
+					[
+						"block",
+						"blocks"
+					],
+					[
+						"funnle",
+						"funnel_blocks\t(main.py)"
+					],
+					[
+						"blo",
+						"block_id"
+					],
+					[
+						"vals",
+						"vals_field"
+					],
+					[
+						"bloc",
+						"block_exists"
+					],
+					[
+						"funne",
+						"funnel_blocks"
+					],
+					[
+						"field",
+						"field_filter"
+					],
+					[
+						"lbls",
+						"lbls_field"
+					],
+					[
+						"model",
+						"model_check"
+					],
+					[
+						"form",
+						"formatDate"
+					],
+					[
+						"dashing",
+						"dashing_funnel"
+					],
+					[
+						"conta",
+						"container"
+					],
+					[
+						"svg",
+						"svgId"
+					],
+					[
+						"config",
+						"configs"
+					],
+					[
+						"aq",
+						"aquaConfig"
+					],
+					[
+						"olive",
+						"oliveConfig"
+					],
+					[
+						"blue",
+						"blueConfig"
+					],
+					[
+						"pink",
+						"pinkConfig"
+					],
+					[
+						"str",
+						"sturct_path"
+					],
+					[
+						"mod",
+						"mod_struct_cmd"
+					],
+					[
+						"data",
+						"date_release"
+					],
+					[
+						"date",
+						"date_release"
+					],
+					[
+						"categ",
+						"Categories"
+					],
+					[
+						"parent",
+						"parent_id"
+					],
+					[
+						"Many",
+						"Many2many"
+					],
+					[
+						"require",
+						"required"
+					],
+					[
+						"rgba",
+						"rgba()\tbackground"
+					],
+					[
+						"marg",
+						"margin-top\t(side_bar.css)"
+					],
+					[
+						"margin",
+						"margin-bottom\t(side_bar.css)"
+					],
+					[
+						"sy",
+						"style"
+					],
+					[
+						"pos",
+						"position\tproperty"
+					],
+					[
+						"togg",
+						"toggleNav"
+					],
+					[
+						"tog",
+						"toggleNav"
+					],
+					[
+						"w",
+						"w_class"
+					],
+					[
+						"Bar",
+						"BarChart"
+					],
+					[
+						"app",
+						"appendTo\t.appendTo()"
+					],
+					[
+						"widg",
+						"widget"
+					],
+					[
+						"templ",
+						"tab_template\t(tab_template.xml)"
+					],
+					[
+						"tab",
+						"tab_id"
+					],
+					[
+						"tabs",
+						"tabsJSON"
+					],
+					[
+						"js",
+						"json_data\t(dashing.py)"
+					],
+					[
+						"tas",
+						"tabsJSON"
+					],
+					[
+						"ta",
+						"tab_id"
+					],
+					[
+						"all",
+						"all_li_selector"
+					],
+					[
+						"li_",
+						"li_id"
+					],
+					[
+						"read",
+						"ready\t$(document).ready"
+					],
+					[
+						"tab_",
+						"tabs_json"
+					],
+					[
+						"_ren",
+						"_render_tabs"
+					],
+					[
+						"fiel",
+						"field_manager"
+					],
+					[
+						"rende",
+						"render_p"
+					],
+					[
+						"jso",
+						"json_data"
+					],
+					[
+						"ma",
+						"main_tabs_widget_template\t(main_tabs_widget.js)"
+					],
+					[
+						"main_tabs_widget_",
+						"main_tabs_widget_template\t(main_tabs_widget_template.xml)"
+					],
+					[
+						"main",
+						"main_tabs_widget\t(__init__.py)"
+					],
+					[
+						"Mas",
+						"MainTabsWidget"
+					],
+					[
+						"zip",
+						"zipfile"
+					],
+					[
+						"sou",
+						"source"
+					],
+					[
+						"sour",
+						"sources"
+					],
+					[
+						"ex",
+						"except"
+					],
+					[
+						"par",
+						"parsed_expr"
+					],
+					[
+						"sys",
+						"sys.stdin.readline"
+					],
+					[
+						"op",
+						"operator"
+					],
 					[
 						"inp",
 						"input"
@@ -67,7 +469,7 @@
 				[
 					[
 						"Package Control: ",
-						"Package Control: Install Package"
+						"Package Control: List Packages"
 					]
 				],
 				"width": 0.0
@@ -90,10 +492,63 @@
 			},
 			"file_history":
 			[
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/js/main_tabs_widget.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_bar/static/src/js/bar.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_liquid_gauge/static/src/js/liq_gauge.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_line_chart/static/src/js/line_chart.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/static/src/js/gauge.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/static/src/js/funnel.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/controllers/dashing.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/controllers/main.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/json/tabs.json",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/controllers/main.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/xml/main_tabs_widget_template.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/controllers/main.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/js/table.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/json/osn.json",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/xml/table.xml",
+				"/home/farouk/odoo-dev/templates/Odoo.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_button_panel/__init__.py",
+				"/home/farouk/odoo-dev/dash.json",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/json/demo.json",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/contorllers/__init__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/contorllers/main.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/lib/d3.v4.min.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_line_chart/static/src/js/data.tsv",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_line_chart/views/assets.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_line_chart/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/.gitignore",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/static/lib/d3-funnel.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/views/assets.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_liquid_gauge/static/src/xml/liq_gauge.xml",
+				"/home/farouk/d3/liq_gauge/liquidFillGauge.js",
+				"/home/farouk/d3/liq_gauge/index.html",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_liquid_gauge/static/lib/liquidFillGauge.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_liquid_gauge/static/src/js/liquidFillGauge.js",
+				"/home/farouk/playground/pytrain/pbook.py",
+				"/home/farouk/odoo-dev/dashin/dashing/d3_mod.sh",
+				"/home/farouk/i.html",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_bar/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/js/widgets_registry.js",
+				"/home/farouk/odoo-dev/dashin/dashing/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/controllers/dashing.py",
+				"/home/farouk/odoo-dev/dashin/dashing/models/main_tabs_widget.py",
+				"/home/farouk/odoo-dev/dashin/dashing/static/src/xml/main_tabs_widget_template.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/static/src/xml/tab_template.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/static/src/js/side_bar.js",
+				"/home/farouk/odoo-dev/dashin/dashing/static/src/css/side_bar.css",
+				"/home/farouk/playground/calc.py",
+				"/home/farouk/playground/sublime/.gitignore",
+				"/home/farouk/playground/code.py",
 				"/home/farouk/playground/more.py",
+				"/home/farouk/playground/pytrain/code.py",
+				"/home/farouk/odoo-dev/11/docker-compose.yml",
+				"/home/farouk/51/kepler-dashboard/Makefile",
 				"/home/farouk/notes/ref.txt",
 				"/home/farouk/notes/ocmd.txt",
-				"/home/farouk/playground/code.py",
 				"/home/farouk/playground/sc.py",
 				"/home/farouk/Desktop/sublime.desktop",
 				"/home/farouk/odoo-dev/custom-addons/todo_app/views/todo_menu.xml",
@@ -101,20 +556,45 @@
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 56.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 187.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"fat",
+					"svg.",
+					"\"user_id\":1,",
+					"field_filter",
+					"    ",
+					"config.target",
+					"target",
+					"field ",
+					".append",
+					"filters",
+					"field",
+					"\"filters\"",
+					"filters",
+					"self",
+					"uid",
+					"data",
+					"options.data",
+					"pointValue",
+					"pointvalue",
+					"value",
+					"div",
+					"get_data",
+					"span",
+					"env"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -131,16 +611,16 @@
 			},
 			"incremental_find":
 			{
-				"height": 40.0
+				"height": 47.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 92.0
 			},
 			"menu_visible": true,
 			"output.autopep8":
 			{
-				"height": 0.0
+				"height": 200.0
 			},
 			"output.exec":
 			{
@@ -153,7 +633,7 @@
 			"pinned_build_system": "Packages/Python/Python.sublime-build",
 			"replace":
 			{
-				"height": 76.0
+				"height": 90.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -187,13 +667,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 377.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 1165.0
 	},
 	"windows":
 	[
@@ -202,6 +682,402 @@
 			{
 				"selected_items":
 				[
+					[
+						"add",
+						"addClass\t.addClass()"
+					],
+					[
+						"chil",
+						"children"
+					],
+					[
+						"child",
+						"children\t.children()"
+					],
+					[
+						"tableta",
+						"tableTabsControl"
+					],
+					[
+						"read",
+						"ready\t$(document).ready"
+					],
+					[
+						"table",
+						"tableTabs"
+					],
+					[
+						"user",
+						"userid"
+					],
+					[
+						"appe",
+						"append\t(gauge.js)"
+					],
+					[
+						"fill",
+						"filtersList"
+					],
+					[
+						"sess",
+						"sessionData"
+					],
+					[
+						"target",
+						"targetValue"
+					],
+					[
+						"tar",
+						"targetTxt2Pos"
+					],
+					[
+						"sho",
+						"shouldFlipText"
+					],
+					[
+						"trans",
+						"translateText"
+					],
+					[
+						"res",
+						"res_model"
+					],
+					[
+						"cons",
+						"console\t{assert(condition: mixed, ...data: Array<any>): void; clear(): void; count(label: string): void; debug(...data: Array<any>): void; dir(...data: Array<any>): void; dirxml(...data: Array<any>): void; error(...data: Array<any>): void; _exception(...data: Array<any>): void; group(...data: Array<any>): void; groupCollapsed(...data: Array<any>): void; groupEnd(): void; info(...data: Array<any>): void; log(...data: Array<any>): void; profile(name: string): void; profileEnd(): void; table(tabularData: { [key: string]: any } | Array<{ [key: string]: any }> | Array<Array<any>>): void; time(label: string): void; timeEnd(label: string): void; timeStamp(label?: string): void; trace(...data: Array<any>): void; warn(...data: Array<any>): void; }"
+					],
+					[
+						"panel",
+						"panel-heading"
+					],
+					[
+						"po",
+						"pointer-events:none\t(main_tabs_widget_template.xml)"
+					],
+					[
+						"load",
+						"load_tab"
+					],
+					[
+						"li",
+						"li_clicked\tstring"
+					],
+					[
+						"att",
+						"attributes\t(gauge.js)"
+					],
+					[
+						"wid",
+						"widgetObjs"
+					],
+					[
+						"sort",
+						"sortedWidgets"
+					],
+					[
+						"conte",
+						"content"
+					],
+					[
+						"json",
+						"jsonData"
+					],
+					[
+						"con",
+						"console\t{+_exception: (...data: Array<any>) => void, +assert: (condition: mixed, ...data: Array<any>) => void, +clear: () => void, +count: (label: string) => void, +debug: (...data: Array<any>) => void, +dir: (...data: Array<any>) => void, +dirxml: (...data: Array<any>) => void, +error: (...data: Array<any>) => void, +group: (...data: Array<any>) => void, +groupCollapsed: (...data: Array<any>) => void, +groupEnd: () => void, +info: (...data: Array<any>) => void, +log: (...data: Array<any>) => void, +profile: (name?: string) => void, +profileEnd: (name?: string) => void, +table: (tabularData: ({[key: string]: any} | Array<{[key: string]: any}> | Array<Array<any>>)) => void, +time: (label: string) => void, +timeEnd: (label: string) => void, +timeStamp: (label?: string) => void, +trace: (...data: Array<any>) => void, +warn: (...data: Array<any>) => void}"
+					],
+					[
+						"max",
+						"maxVal"
+					],
+					[
+						"maxVa",
+						"maxValue"
+					],
+					[
+						"conf",
+						"config\tany"
+					],
+					[
+						"db",
+						"db_val"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"m",
+						"model"
+					],
+					[
+						"mode",
+						"model_check\t(main.py)"
+					],
+					[
+						"da",
+						"dashing_gauge\t(main.py)"
+					],
+					[
+						"requ",
+						"request\t(main.py)"
+					],
+					[
+						"val",
+						"val_str"
+					],
+					[
+						"va",
+						"val_str"
+					],
+					[
+						"data-",
+						"data-placement=\"left"
+					],
+					[
+						"count",
+						"counts"
+					],
+					[
+						"bli",
+						"b_list"
+					],
+					[
+						"bl",
+						"block_index"
+					],
+					[
+						"ap",
+						"append"
+					],
+					[
+						"block",
+						"blocks"
+					],
+					[
+						"funnle",
+						"funnel_blocks\t(main.py)"
+					],
+					[
+						"blo",
+						"block_id"
+					],
+					[
+						"vals",
+						"vals_field"
+					],
+					[
+						"bloc",
+						"block_exists"
+					],
+					[
+						"funne",
+						"funnel_blocks"
+					],
+					[
+						"field",
+						"field_filter"
+					],
+					[
+						"lbls",
+						"lbls_field"
+					],
+					[
+						"model",
+						"model_check"
+					],
+					[
+						"form",
+						"formatDate"
+					],
+					[
+						"dashing",
+						"dashing_funnel"
+					],
+					[
+						"conta",
+						"container"
+					],
+					[
+						"svg",
+						"svgId"
+					],
+					[
+						"config",
+						"configs"
+					],
+					[
+						"aq",
+						"aquaConfig"
+					],
+					[
+						"olive",
+						"oliveConfig"
+					],
+					[
+						"blue",
+						"blueConfig"
+					],
+					[
+						"pink",
+						"pinkConfig"
+					],
+					[
+						"str",
+						"sturct_path"
+					],
+					[
+						"mod",
+						"mod_struct_cmd"
+					],
+					[
+						"data",
+						"date_release"
+					],
+					[
+						"date",
+						"date_release"
+					],
+					[
+						"categ",
+						"Categories"
+					],
+					[
+						"parent",
+						"parent_id"
+					],
+					[
+						"Many",
+						"Many2many"
+					],
+					[
+						"require",
+						"required"
+					],
+					[
+						"rgba",
+						"rgba()\tbackground"
+					],
+					[
+						"marg",
+						"margin-top\t(side_bar.css)"
+					],
+					[
+						"margin",
+						"margin-bottom\t(side_bar.css)"
+					],
+					[
+						"sy",
+						"style"
+					],
+					[
+						"pos",
+						"position\tproperty"
+					],
+					[
+						"togg",
+						"toggleNav"
+					],
+					[
+						"tog",
+						"toggleNav"
+					],
+					[
+						"w",
+						"w_class"
+					],
+					[
+						"Bar",
+						"BarChart"
+					],
+					[
+						"app",
+						"appendTo\t.appendTo()"
+					],
+					[
+						"widg",
+						"widget"
+					],
+					[
+						"templ",
+						"tab_template\t(tab_template.xml)"
+					],
+					[
+						"tab",
+						"tab_id"
+					],
+					[
+						"tabs",
+						"tabsJSON"
+					],
+					[
+						"js",
+						"json_data\t(dashing.py)"
+					],
+					[
+						"tas",
+						"tabsJSON"
+					],
+					[
+						"ta",
+						"tab_id"
+					],
+					[
+						"all",
+						"all_li_selector"
+					],
+					[
+						"li_",
+						"li_id"
+					],
+					[
+						"tab_",
+						"tabs_json"
+					],
+					[
+						"_ren",
+						"_render_tabs"
+					],
+					[
+						"fiel",
+						"field_manager"
+					],
+					[
+						"rende",
+						"render_p"
+					],
+					[
+						"jso",
+						"json_data"
+					],
+					[
+						"ma",
+						"main_tabs_widget_template\t(main_tabs_widget.js)"
+					],
+					[
+						"main_tabs_widget_",
+						"main_tabs_widget_template\t(main_tabs_widget_template.xml)"
+					],
+					[
+						"main",
+						"main_tabs_widget\t(__init__.py)"
+					],
+					[
+						"Mas",
+						"MainTabsWidget"
+					],
+					[
+						"zip",
+						"zipfile"
+					],
+					[
+						"sou",
+						"source"
+					],
+					[
+						"sour",
+						"sources"
+					],
 					[
 						"ex",
 						"except"
@@ -235,50 +1111,68 @@
 			"buffers":
 			[
 				{
-					"contents": "# name = \"mohamed\"\n# age = 20\n\n# print(\"My name is {}.\\nI am {} years old\".format(name, age))\n\nimport random\n\nnum = random.randint(0, 10)\n\n\nwhile (True):\n\n\tguess = int(input(\"Enter a number: \"))\n\tif (guess == num):\n\t\tprint(\"You gussed it!\")\n\t\tbreak\n\t\n\telif (guess < num):\n\t\tprint(\"No, a little higher\")\n\t\n\telse:\n\t\tprint(\"No, a little lower\")\n\n",
-					"file": "/home/farouk/playground/code.py",
-					"file_size": 343,
-					"file_write_time": 131769153401396260,
+					"file": "/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/json/osn.json",
 					"settings":
 					{
-						"buffer_size": 343,
+						"buffer_size": 7974,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/xml/table.xml",
+					"settings":
+					{
+						"buffer_size": 9121,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/xml/main_tabs_widget_template.xml",
+					"settings":
+					{
+						"buffer_size": 2489,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/js/main_tabs_widget.js",
+					"settings":
+					{
+						"buffer_size": 4913,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/js/table.js",
+					"settings":
+					{
+						"buffer_size": 3232,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/farouk/odoo-dev/dashin/dashing/dashing_table/views/assets.xml",
+					"settings":
+					{
+						"buffer_size": 325,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "def total(n1, n2, *nums):\n    '''\n            Takes at least 2 numbers and returns their sum\n\n            arguments are ints or floats\n    '''\n    sum = 0\n    sum += n1\n    sum += n2\n    for n in nums:\n        sum += n\n\n    print(sum)\n\n\ntotal(2, 4)\ntotal(2, 4, 5)\ntotal(2, 4, 5, 8)\n# total(2)\n# total()",
-					"file": "/home/farouk/playground/more.py",
-					"file_size": 302,
-					"file_write_time": 131769153372277621,
+					"file": "/home/farouk/odoo-dev/dashin/dashing/dashing/controllers/dashing.py",
 					"settings":
 					{
-						"buffer_size": 302,
-						"encoding": "UTF-8",
+						"buffer_size": 1829,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "import re\nimport sys\nfrom time import sleep\n\n\ndef interface():\n\n    while(True):\n        print(chr(27)+'[2j')\n        print('\\033c')\n        print('\\x1bc')\n        print(\"Write your expression, or q to exit\")\n        expr = sys.stdin.readline().rstrip('\\n')\n        # print(expr)\n\n        if expr in [\"q\", \"quit\"]:\n            break\n\n        res = parse(expr)\n\n        if (res != \"E1\"):\n            print(expr + \" = \" + str(res))\n            sleep(2.5)\n\ndef run():\n    interface()\n\ndef parse(expr):\n    # print(type(expr))\n    parsed_expr = re.sub(r'\\s+', \"\", expr)\n\n    # print(parsed_expr)\n\n    try:\n        res = eval(parsed_expr)\n        \n\n    except Exception as e:\n        print(\"You entered an invalid expression, try again!\")\n        sleep(3)\n        return \"E1\"\n\n    return res\n\n    \n# def calc(op1, op2, operator):\n\n#     try:\n#        float(op1)\n#        float(op2)\n#     except ValueError:\n#        print(\"Please use numbers only!\")\n\n#     res = op1\n#     if operator == '+':\n#         res += op2\n#     elif operator == '-':\n#         res -= op2\n#     elif operator == '/':\n#         res /= op2\n#     elif operator == '*':\n#         res *= op2\n#     elif operator == '%':\n#         res %= op2\n#     else:\n#         print(\"Unsported operation\")\n#         return 'E1'\n\n\n#     return res\n\n\n\n\n\nrun()",
-					"file": "/home/farouk/playground/calc.py",
-					"file_size": 1307,
-					"file_write_time": 131769153326919741,
+					"file": "/home/farouk/odoo-dev/dashin/dashing/dashing_table/controllers/main.py",
 					"settings":
 					{
-						"buffer_size": 1307,
-						"encoding": "UTF-8",
+						"buffer_size": 1914,
 						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "farouk@Dev-Farouk:~/playground $ ls                                                                \npytrain                                                                                            \nfarouk@Dev-Farouk:~/playground $                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n                                                                                                   \n",
-					"settings":
-					{
-						"buffer_size": 1300,
-						"line_ending": "Unix",
-						"name": "JavaScript Enhancements Terminal (bash)",
-						"read_only": true,
-						"scratch": true
 					}
 				}
 			],
@@ -311,7 +1205,7 @@
 				[
 					[
 						"Package Control: ",
-						"Package Control: Install Package"
+						"Package Control: List Packages"
 					]
 				],
 				"width": 0.0
@@ -334,16 +1228,94 @@
 			},
 			"expanded_folders":
 			[
-				"/home/farouk/playground"
+				"/home/farouk/odoo-dev/dashin/dashing",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/controllers",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/data",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/models",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/lib",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/views",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_bar",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_bar/static",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_bar/static/src",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_bar/static/src/js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_bar/views",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/controllers",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/static",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/static/src",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/static/src/js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/controllers",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/static",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/xml",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/views"
 			],
 			"file_history":
 			[
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/js/tableTabs.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/js/main_tabs_widget.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_bar/static/src/js/bar.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_liquid_gauge/static/src/js/liq_gauge.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_line_chart/static/src/js/line_chart.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/static/src/js/gauge.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/static/src/js/funnel.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/controllers/dashing.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/controllers/main.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/json/tabs.json",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/controllers/main.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/xml/main_tabs_widget_template.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/controllers/main.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/js/table.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/json/osn.json",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/xml/table.xml",
+				"/home/farouk/odoo-dev/templates/Odoo.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_button_panel/__init__.py",
+				"/home/farouk/odoo-dev/dash.json",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/json/demo.json",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/contorllers/__init__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/contorllers/main.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/lib/d3.v4.min.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_line_chart/static/src/js/data.tsv",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_line_chart/views/assets.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_line_chart/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/.gitignore",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/static/lib/d3-funnel.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_funnel/views/assets.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_liquid_gauge/static/src/xml/liq_gauge.xml",
+				"/home/farouk/d3/liq_gauge/liquidFillGauge.js",
+				"/home/farouk/d3/liq_gauge/index.html",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_liquid_gauge/static/lib/liquidFillGauge.js",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_liquid_gauge/static/src/js/liquidFillGauge.js",
+				"/home/farouk/playground/pytrain/pbook.py",
+				"/home/farouk/odoo-dev/dashin/dashing/d3_mod.sh",
+				"/home/farouk/i.html",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_gauge/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing_bar/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/js/widgets_registry.js",
+				"/home/farouk/odoo-dev/dashin/dashing/__manifest__.py",
+				"/home/farouk/odoo-dev/dashin/dashing/controllers/dashing.py",
+				"/home/farouk/odoo-dev/dashin/dashing/models/main_tabs_widget.py",
+				"/home/farouk/odoo-dev/dashin/dashing/static/src/xml/main_tabs_widget_template.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/static/src/xml/tab_template.xml",
+				"/home/farouk/odoo-dev/dashin/dashing/static/src/js/side_bar.js",
+				"/home/farouk/odoo-dev/dashin/dashing/static/src/css/side_bar.css",
+				"/home/farouk/playground/calc.py",
+				"/home/farouk/playground/sublime/.gitignore",
+				"/home/farouk/playground/code.py",
+				"/home/farouk/playground/more.py",
+				"/home/farouk/playground/pytrain/code.py",
 				"/home/farouk/odoo-dev/11/docker-compose.yml",
 				"/home/farouk/51/kepler-dashboard/Makefile",
-				"/home/farouk/playground/more.py",
 				"/home/farouk/notes/ref.txt",
 				"/home/farouk/notes/ocmd.txt",
-				"/home/farouk/playground/code.py",
 				"/home/farouk/playground/sc.py",
 				"/home/farouk/Desktop/sublime.desktop",
 				"/home/farouk/odoo-dev/custom-addons/todo_app/views/todo_menu.xml",
@@ -351,25 +1323,48 @@
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 56.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 187.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
-					"'",
-					"\t",
-					"res",
-					"\t",
-					"):"
+					"active",
+					"opportuni",
+					"home",
+					"fat",
+					"svg.",
+					"\"user_id\":1,",
+					"field_filter",
+					"    ",
+					"config.target",
+					"target",
+					"field ",
+					".append",
+					"filters",
+					"field",
+					"\"filters\"",
+					"filters",
+					"self",
+					"uid",
+					"data",
+					"options.data",
+					"pointValue",
+					"pointvalue",
+					"value",
+					"div",
+					"get_data",
+					"span",
+					"env"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -387,67 +1382,592 @@
 			"folders":
 			[
 				{
-					"path": "/home/farouk/playground"
+					"path": "/home/farouk/odoo-dev/dashin/dashing"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 4,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/farouk/playground/code.py",
+							"file": "/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/json/osn.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 343,
+								"buffer_size": 7974,
 								"regions":
 								{
+									"col_008011FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5191,
+												5198
+											],
+											[
+												6845,
+												6852
+											]
+										],
+										"scope": "col_008011FF"
+									},
+									"col_008011FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_008011FF_circle.png",
+										"regions":
+										[
+											[
+												5169,
+												5169
+											],
+											[
+												6823,
+												6823
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_07FFF0FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5841,
+												5848
+											],
+											[
+												7485,
+												7492
+											]
+										],
+										"scope": "col_07FFF0FF"
+									},
+									"col_07FFF0FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_07FFF0FF_circle.png",
+										"regions":
+										[
+											[
+												5819,
+												5819
+											],
+											[
+												7463,
+												7463
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_080800FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5223,
+												5230
+											],
+											[
+												6877,
+												6884
+											]
+										],
+										"scope": "col_080800FF"
+									},
+									"col_080800FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_080800FF_circle.png",
+										"regions":
+										[
+											[
+												5201,
+												5201
+											],
+											[
+												6855,
+												6855
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_3F2AE2FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5809,
+												5816
+											],
+											[
+												7453,
+												7460
+											]
+										],
+										"scope": "col_3F2AE2FF"
+									},
+									"col_3F2AE2FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_3F2AE2FF_circle.png",
+										"regions":
+										[
+											[
+												5787,
+												5787
+											],
+											[
+												7431,
+												7431
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_6B70FDFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5678,
+												5685
+											],
+											[
+												7324,
+												7331
+											]
+										],
+										"scope": "col_6B70FDFF"
+									},
+									"col_6B70FDFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_6B70FDFF_circle.png",
+										"regions":
+										[
+											[
+												5656,
+												5656
+											],
+											[
+												7302,
+												7302
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_6F34FDFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5514,
+												5521
+											],
+											[
+												7161,
+												7168
+											]
+										],
+										"scope": "col_6F34FDFF"
+									},
+									"col_6F34FDFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_6F34FDFF_circle.png",
+										"regions":
+										[
+											[
+												5492,
+												5492
+											],
+											[
+												7139,
+												7139
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_702963FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5354,
+												5361
+											],
+											[
+												7003,
+												7010
+											]
+										],
+										"scope": "col_702963FF"
+									},
+									"col_702963FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_702963FF_circle.png",
+										"regions":
+										[
+											[
+												5332,
+												5332
+											],
+											[
+												6981,
+												6981
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FF437DFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5646,
+												5653
+											],
+											[
+												7292,
+												7299
+											]
+										],
+										"scope": "col_FF437DFF"
+									},
+									"col_FF437DFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FF437DFF_circle.png",
+										"regions":
+										[
+											[
+												5624,
+												5624
+											],
+											[
+												7270,
+												7270
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FF634DFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5482,
+												5489
+											],
+											[
+												7129,
+												7136
+											]
+										],
+										"scope": "col_FF634DFF"
+									},
+									"col_FF634DFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FF634DFF_circle.png",
+										"regions":
+										[
+											[
+												5460,
+												5460
+											],
+											[
+												7107,
+												7107
+											]
+										],
+										"scope": "col_gutter"
+									}
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										2143,
+										2143
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"git_savvy.repo_path": "/home/farouk/odoo-dev/dashin/dashing",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2394.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/home/farouk/playground/more.py",
+							"file": "/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/xml/table.xml",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 302,
+								"buffer_size": 9121,
 								"regions":
 								{
+									"col_1D96B2FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2330,
+												2337
+											],
+											[
+												2371,
+												2378
+											],
+											[
+												4858,
+												4865
+											],
+											[
+												5471,
+												5478
+											],
+											[
+												6018,
+												6025
+											]
+										],
+										"scope": "col_1D96B2FF"
+									},
+									"col_1D96B2FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_1D96B2FF_circle.png",
+										"regions":
+										[
+											[
+												2298,
+												2298
+											],
+											[
+												2339,
+												2339
+											],
+											[
+												4826,
+												4826
+											],
+											[
+												5439,
+												5439
+											],
+											[
+												5975,
+												5975
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_337AA8FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												684,
+												691
+											]
+										],
+										"scope": "col_337AA8FF"
+									},
+									"col_337AA8FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_337AA8FF_circle.png",
+										"regions":
+										[
+											[
+												663,
+												663
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_4B8AB2FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												776,
+												783
+											]
+										],
+										"scope": "col_4B8AB2FF"
+									},
+									"col_4B8AB2FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_4B8AB2FF_circle.png",
+										"regions":
+										[
+											[
+												755,
+												755
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_5E5D5219":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5325,
+												5346
+											]
+										],
+										"scope": "col_5E5D5219"
+									},
+									"col_5E5D5219_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_5E5D5219_circle.png",
+										"regions":
+										[
+											[
+												5289,
+												5289
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_5E5D52BF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												6516,
+												6538
+											]
+										],
+										"scope": "col_5E5D52BF"
+									},
+									"col_5E5D52BF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_5E5D52BF_circle.png",
+										"regions":
+										[
+											[
+												6495,
+												6495
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_5E5D52FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												617,
+												624
+											],
+											[
+												5698,
+												5705
+											]
+										],
+										"scope": "col_5E5D52FF"
+									},
+									"col_5E5D52FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_5E5D52FF_circle.png",
+										"regions":
+										[
+											[
+												596,
+												596
+											],
+											[
+												5673,
+												5673
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FFFFFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2470,
+												2475
+											],
+											[
+												5501,
+												5506
+											]
+										],
+										"scope": "col_FFFFFFFF"
+									},
+									"col_FFFFFFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+										"regions":
+										[
+											[
+												2449,
+												2449
+											],
+											[
+												5480,
+												5480
+											]
+										],
+										"scope": "col_gutter"
+									}
 								},
 								"selection":
 								[
 									[
-										168,
-										168
+										7276,
+										7276
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"git_savvy.repo_path": "/home/farouk/odoo-dev/dashin/dashing",
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 9593.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -455,173 +1975,188 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/home/farouk/playground/calc.py",
+							"file": "/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/xml/main_tabs_widget_template.xml",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1307,
+								"buffer_size": 2489,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1078,
-										1078
+										794,
+										794
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
+									"git_savvy.repo_path": "/home/farouk/odoo-dev/dashin/dashing",
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1674.0,
+								"translation.y": 684.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
+						},
 						{
 							"buffer": 3,
-							"semi_transient": false,
+							"file": "/home/farouk/odoo-dev/dashin/dashing/dashing/static/src/js/main_tabs_widget.js",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 1300,
+								"buffer_size": 4913,
 								"regions":
 								{
-									"0,0":
-									{
-										"flags": 272,
-										"regions":
-										[
-											[
-												0,
-												17
-											]
-										],
-										"scope": "terminalview.black_green"
-									},
-									"0,18":
-									{
-										"flags": 272,
-										"regions":
-										[
-											[
-												18,
-												30
-											]
-										],
-										"scope": "terminalview.black_blue"
-									},
-									"1,0":
-									{
-										"flags": 272,
-										"regions":
-										[
-											[
-												100,
-												107
-											]
-										],
-										"scope": "terminalview.black_blue"
-									},
-									"2,0":
-									{
-										"flags": 272,
-										"regions":
-										[
-											[
-												200,
-												217
-											]
-										],
-										"scope": "terminalview.black_green"
-									},
-									"2,18":
-									{
-										"flags": 272,
-										"regions":
-										[
-											[
-												218,
-												230
-											]
-										],
-										"scope": "terminalview.black_blue"
-									},
-									"8,0":
-									{
-										"flags": 272,
-										"regions":
-										[
-											[
-												1300,
-												1300
-											]
-										],
-										"scope": "terminalview.black_green"
-									},
-									"8,18":
-									{
-										"flags": 272,
-										"regions":
-										[
-											[
-												1300,
-												1300
-											]
-										],
-										"scope": "terminalview.black_blue"
-									}
 								},
 								"selection":
 								[
 									[
-										233,
-										233
+										2198,
+										2198
 									]
 								],
 								"settings":
 								{
-									"auto_complete": false,
-									"auto_complete_commit_on_tab": false,
-									"caret_style": "blink",
-									"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
-									"draw_centered": false,
-									"draw_indent_guides": false,
-									"draw_white_space": "none",
-									"gutter": false,
-									"highlight_line": false,
-									"scroll_past_end": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"terminal_view": true,
-									"terminal_view_activate_args":
-									{
-										"cmd": "/bin/bash -l",
-										"cwd": "/home/farouk/playground",
-										"keep_open": false,
-										"syntax": null,
-										"title": "JavaScript Enhancements Terminal (bash)"
-									},
-									"terminal_view_last_cursor_pos":
+									"git_savvy.repo_path": "/home/farouk/odoo-dev/dashin/dashing",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2280.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/farouk/odoo-dev/dashin/dashing/dashing_table/static/src/js/table.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3232,
+								"regions":
+								{
+								},
+								"selection":
+								[
 									[
-										2,
-										33
-									],
-									"word_wrap": false
+										767,
+										767
+									]
+								],
+								"settings":
+								{
+									"git_savvy.repo_path": "/home/farouk/odoo-dev/dashin/dashing",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+								},
+								"translation.x": 0.0,
+								"translation.y": 228.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/farouk/odoo-dev/dashin/dashing/dashing_table/views/assets.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 325,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										282,
+										282
+									]
+								],
+								"settings":
+								{
+									"git_savvy.repo_path": "/home/farouk/odoo-dev/dashin/dashing",
+									"syntax": "Packages/XML/XML.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/farouk/odoo-dev/dashin/dashing/dashing/controllers/dashing.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1829,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										82,
+										82
+									]
+								],
+								"settings":
+								{
+									"git_savvy.repo_path": "/home/farouk/odoo-dev/dashin/dashing",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 798.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/farouk/odoo-dev/dashin/dashing/dashing_table/controllers/main.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1914,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1834,
+										1834
+									]
+								],
+								"settings":
+								{
+									"git_savvy.repo_path": "/home/farouk/odoo-dev/dashin/dashing",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1254.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
 							"type": "text"
 						}
 					]
@@ -629,11 +2164,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 40.0
+				"height": 47.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 92.0
 			},
 			"layout":
 			{
@@ -644,12 +2179,6 @@
 						0,
 						1,
 						1
-					],
-					[
-						0,
-						1,
-						1,
-						2
 					]
 				],
 				"cols":
@@ -660,14 +2189,13 @@
 				"rows":
 				[
 					0.0,
-					0.512698412698,
 					1.0
 				]
 			},
 			"menu_visible": true,
 			"output.autopep8":
 			{
-				"height": 0.0
+				"height": 200.0
 			},
 			"output.exec":
 			{
@@ -682,7 +2210,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 76.0
+				"height": 90.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -712,7 +2240,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -720,12 +2248,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 279.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 16,
+			"window_id": 68,
 			"workspace_name": ""
 		}
 	],
